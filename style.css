@@ -5,7 +5,7 @@
 }
 
 header {
-    background-image: url(../../images/HeaderIMage.jpg);
+    background-image: url(./images/HeaderIMage.jpg);
     background-repeat: no-repeat;
     height: 40rem;
     width: 100%;
@@ -31,4 +31,8 @@ header {
     border: none;
     color: white;
     transition: all 0.5s;
+}
+
+h3 {
+    display: inline;
 }
