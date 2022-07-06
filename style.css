@@ -1,0 +1,34 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url(../../images/HeaderIMage.jpg);
+    background-repeat: no-repeat;
+    height: 40rem;
+    width: 100%;
+    background-size: cover;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.header-main {
+    color: white;
+    text-align: center;
+}
+
+.donateBtn {
+    margin-top: 20px;
+    text-align: center;
+    padding: 5px;
+    background-color: #33b5e5;
+    outline: none;
+    border: none;
+    color: white;
+    transition: all 0.5s;
+}
